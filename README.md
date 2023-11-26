@@ -1,7 +1,4 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafish08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Nafish's GitHub Stats">
-</p>
 
 # Hi there, I'm MD Nafish Sadik 👋
 
@@ -47,4 +44,3 @@ Welcome to our doctor's portal, where innovation meets compassion. Experience a 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nafish08&theme=nord)](https://github.com/nafish08)
 
-Feel free to explore my repositories and connect with me. Let's code together and build amazing things! 🚀
