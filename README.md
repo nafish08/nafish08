@@ -1,30 +1,50 @@
-### Hi there, I'm Md Nafish Sadik
+<!-- Header Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafish08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Nafish's GitHub Stats">
+</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nafish_sadik?label=Follow&style=social)](https://twitter.com/nafish_sadik)
-[![Linkedin: nafish08](https://img.shields.io/badge/-Md%20Nafish%20Sadik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafish-sadik-597011185/)](https://www.linkedin.com/in/nafish-sadik-597011185/)
+# Hi there, I'm MD Nafish Sadik 👋
 
-**Md Nafish Sadik** (he/him) is who I am. I'm a passionate front-end web developer that currently resides in Dhaka, Bangladesh.
+🚀 Dynamic Front-End Web Developer | JavaScript, React, and PHP Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Node.js
-- 💬 Ask me about React.js or any front-end staff.
-- 📫 How to reach me: (https://www.linkedin.com/in/nafish-sadik-597011185/)
-- 😄 Pronouns: He/His
+## About Me
 
-### Languages and Tools:
-<p align="left"> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
- alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p> 
+Passionate about creating seamless and delightful user experiences. I specialize in front-end development with expertise in JavaScript, React, and PHP. Let's build something amazing together!
+
+## Skills
+
+HTML | CSS | MySQL | React.js | JavaScript | Git | Node.js | PHP | SQL | jQuery | Python | Bootstrap | Tailwind CSS | DaisyUI | MongoDB | Express.js | JWT
+
+## Projects
+
+### Doctors Portal
+
+Your Gateway to Personalized Patient Care
+
+Welcome to our doctor's portal, where innovation meets compassion. Experience a seamless blend of cutting-edge technology and personalized care, ensuring a healthier and happier tomorrow for you and your loved ones. Your well-being is our priority, and our dedicated team of healthcare professionals is here to provide comprehensive and convenient medical services tailored to your unique needs.
+
+## GitHub Stats
+
+![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafish08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## Let's Connect
+
+- LinkedIn: [MD Nafish Sadik](https://www.linkedin.com/in/md-nafish-sadik/)
+- Twitter: [nafish08](https://twitter.com/nafish08)
+- Email: [nafish.sadik@gmail.com]
+
+## Badges
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/nafish08)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/nafish08)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/nafish08)
+
+## 📈 My GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafish08&layout=compact&theme=radical)
+
+## 🏆 My Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nafish08&theme=nord)](https://github.com/nafish08)
+
+Feel free to explore my repositories and connect with me. Let's code together and build amazing things! 🚀
