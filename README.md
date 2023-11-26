@@ -1,5 +1,3 @@
-<!-- Header Section -->
-
 # Hi there, I'm MD Nafish Sadik 👋
 
 🚀 Dynamic Front-End Web Developer | JavaScript, React, and PHP Specialist
@@ -22,7 +20,7 @@ Welcome to our doctor's portal, where innovation meets compassion. Experience a 
 
 ## GitHub Stats
 
-![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafish08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafish08&layout=compact&theme=radical)
+![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafish08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Let's Connect
 
@@ -36,6 +34,7 @@ Welcome to our doctor's portal, where innovation meets compassion. Experience a 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/nafish08)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/nafish08)
 
+## 📈 My GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafish08&layout=compact&theme=radical)
 
